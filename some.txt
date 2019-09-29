@@ -1,4 +1,5 @@
-hello git
+hello git!
 git is awesome
 gitGB
 new string
+new string++
